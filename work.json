@@ -1,0 +1,52 @@
+{
+  "work": [
+    {
+      "id": 1,
+      "img": "/Imgs/blog-1.png",
+      "button": "Interview",
+      "title": "Jan 8, 2021",
+      "subTitle": "Muhammad",
+      "text": "Best Podcast App Tips You Will Read This Year"
+    },
+    {
+      "id": 2,
+      "img": "/Imgs/blog-2.png",
+      "button": "Podcast",
+      "title": "Jan 6, 2021",
+      "subTitle": "Muhammad",
+      "text": "7 Secret Techniques To Improve Gradients"
+    },
+    {
+      "id": 3,
+      "img": "/Imgs/blog-3.png",
+      "button": "Meetups",
+      "title": "Jan 5, 2021",
+      "subTitle": "Muhammad",
+      "text": "Fall In Love With Dashboard Design"
+    },
+    {
+      "id": 4,
+      "img": "/Imgs/blog-4.png",
+      "button": "Updates",
+      "title": "Jan 3, 2021",
+      "subTitle": "Muhammad",
+      "text": "The Hidden Mystery Behind Pixel 4"
+    },
+    {
+      "id": 5,
+      "img": "/Imgs/blog-5.png",
+      "button": "Inspiration",
+      "title": "Jan 2, 2021",
+      "subTitle": "Muhammad",
+      "text": "80 Things To Do Immediately About Icons"
+    },
+    {
+      "id": 6,
+      "img": "/Imgs/blog-6.png",
+      "button": "Interview",
+      "title": "Jan 1, 2021",
+      "subTitle": "Muhammad",
+      "text": "The 7 Best Things About Mobile App"
+    }
+  ]
+}
